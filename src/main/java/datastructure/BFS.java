@@ -11,6 +11,8 @@ public class BFS {
 	
 	public static class Node
 	{
+		
+		/* commentin */
 		int data;
 		boolean visited;
 		ArrayList<Node> neighbours;
